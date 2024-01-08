@@ -1,0 +1,99 @@
+********************************************************************
+*                                                                  *
+* Component List (Generic)                                         *
+*                                                                  *
+* D:\UTENTI\00.CAD\00.PROGETTI\METALTRONICA\22-310-0\22-310-0.MAX  *
+* Mon Dec 18 16:17:15 2023                                         *
+*                                                                  *
+********************************************************************
+
+ REF DES    VALUE            PACKAGE          FOOTPRINT                      X LOC      Y LOC      ROTATION
+------------------------------------------------------------------------------------------------------------
+84                                           MH3.2_KO7                       13.00 mm   50.00 mm  0       
+85                                           MH3.2_KO7                       40.00 mm   50.00 mm  0       
+86                                           MH3.2_KO7                       0.00 mm    0.00 mm   0       
+87                                           MH3.2_KO7                       40.00 mm   0.00 mm   0       
+88                                           02.RIF-MONT-SMD                 43.18 mm   45.72 mm  0       
+89                                           02.RIF-MONT-SMD                 6.35 mm    52.71 mm  0       
+90                                           02.RIF-MONT-SMD                 28.58 mm   -1.91 mm  0       
+C1         330nF            C                SMD0805-MET                     -3.18 mm   44.45 mm  270     
+C2         100nF            C                SMD0603                         6.35 mm    32.39 mm  90      
+C3         100nF            C0603            SMD0603                         8.26 mm    20.96 mm  90      
+C4         100nF            C0603            SMD0603                         5.72 mm    44.45 mm  90      
+C5         10nF             C0603            SMD0603                         19.05 mm   15.88 mm  90      
+C6         100nF            C0603            SMD0603                         13.34 mm   22.23 mm  90      
+C7         10nF             C0603            SMD0603                         13.34 mm   16.51 mm  270     
+C8         100nF            C0603            SMD0603                         13.34 mm   10.80 mm  90      
+C9         10nF             C0603            SMD0603                         9.53 mm    5.08 mm   90      
+C10        10nF             C0603            SMD0603                         17.78 mm   4.45 mm   90      
+C11        100nF            C                SMD0603                         -1.91 mm   10.80 mm  90      
+C12        560nF            C0805            SMD0805-MET                     0.00 mm    13.34 mm  0       
+C13        560nF            C0805            SMD0805-MET                     5.72 mm    10.80 mm  270     
+C15        100nF            C                SMD0603                         22.23 mm   28.58 mm  90      
+C16        100nF            C                SMD0603                         12.70 mm   27.94 mm  270     
+DS1        PMEG050V150EPE   PMEG050V150EPEZ  SOT1289B-NEXPERIA               36.83 mm   38.74 mm  90      
+J1         B3B-XH-AM        HEADER-3         TYCO-292161-3                   36.20 mm   43.82 mm  0       
+J2         NANO-FIT 10531.. HEADER-8X2_12    1053121106-MOLEX                32.39 mm   7.62 mm   180     
+J3         NANO-FIT 10531.. HEADER_5X2_5     1053102210-MOLEX                32.39 mm   17.78 mm  180     
+J4         NANO-FIT 10531.. HEADER-8X2_8     1053111102-MOLEX                0.64 mm    48.90 mm  0       
+OC1        TCST5250         RPI-0532E        TCST5250-VISHAY                 17.60 mm   36.90 mm  180     
+OC2        TCST5250         RPI-0532E        TCST5250-VISHAY                 9.30 mm    35.80 mm  -170 33'
+OC3        TCST5250         RPI-0532E        TCST5250-VISHAY                 22.40 mm   11.50 mm  0       
+PTC1       750mA            SMD030F-2_2      LITTELFUSE-1210L                1.27 mm    44.45 mm  90      
+Q1         2N7002L          MOSFET_N_8       SOT23-123                       26.67 mm   40.01 mm  0       
+Q2         SSM3K341R,LF     NMOS_DPAK        SOT23-F                         29.21 mm   29.21 mm  0       
+Q3         2N7002L          MOSFET_N_8       SOT23-123                       33.02 mm   33.66 mm  0       
+Q4         2N7002L          MOSFET_N_8       SOT23-123                       37.47 mm   33.66 mm  0       
+Q5         2N7002L          MOSFET_N_8       SOT23-123                       36.83 mm   23.50 mm  90      
+Q6         2N7002L          MOSFET_N_8       SOT23-123                       12.70 mm   5.08 mm   180     
+R1         10K              R0603            SMD0603                         25.40 mm   35.56 mm  270     
+R2         10K              R0603            SMD0603                         35.56 mm   29.21 mm  90      
+R3         10K              R0603            SMD0603                         40.01 mm   29.21 mm  270     
+R4         10K              R0603            SMD0603                         27.94 mm   35.56 mm  270     
+R5         10K              R0603            SMD0603                         28.58 mm   26.04 mm  180     
+R6         10K              R0603            SMD0603                         33.66 mm   29.21 mm  270     
+R7         4K7              R0603            SMD0603                         26.04 mm   22.86 mm  90      
+R8         4K7              R0603            SMD0603                         29.21 mm   22.86 mm  90      
+R9         4K7              R0603            SMD0603                         32.39 mm   22.86 mm  90      
+R10        442R             R1206            SMD1206                         19.69 mm   45.09 mm  270     
+R11        22K              R0603            SMD0603                         19.05 mm   22.23 mm  90      
+R12        3K3              R0603            SMD0603                         20.96 mm   15.88 mm  90      
+R13        442R             R1206            SMD1206                         22.86 mm   45.09 mm  270     
+R14        22K              R0603            SMD0603                         10.16 mm   13.97 mm  90      
+R15        3K3              R0603            SMD0603                         10.16 mm   17.78 mm  270     
+R16        442R             R1206            SMD1206                         23.50 mm   13.97 mm  90      
+R17        1K7              R0603            SMD0603                         19.05 mm   12.70 mm  90      
+R18        22K              R0603            SMD0603                         19.69 mm   4.45 mm   270     
+R19        3K3              R0603            SMD0603                         24.77 mm   4.45 mm   270     
+R20        10K              R0603            SMD0603                         15.88 mm   4.45 mm   90      
+R21        120K             R                SMD0603                         3.18 mm    10.80 mm  270     
+R22        120K             R                SMD0603                         0.64 mm    10.80 mm  270     
+R23        10K              R0603            SMD0603                         10.16 mm   10.80 mm  90      
+R24        10K              R0603            SMD0603                         8.26 mm    17.78 mm  90      
+R25        10K              R0603            SMD0603                         6.35 mm    27.94 mm  90      
+R26        10K              R0603            SMD0603                         8.26 mm    24.13 mm  270     
+R27        10K              R0603            SMD0603                         8.26 mm    27.94 mm  90      
+TP1        Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               27.94 mm   43.82 mm  0       
+TP2        Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               23.50 mm   34.93 mm  0       
+TP3        Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               24.77 mm   27.31 mm  0       
+TP4        Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               35.56 mm   26.67 mm  0       
+TP5        Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               12.70 mm   34.93 mm  0       
+TP6        Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               3.18 mm    5.72 mm   0       
+TP7        Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               15.88 mm   39.37 mm  0       
+TP8        Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               8.26 mm    14.61 mm  0       
+TP9        Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               24.77 mm   6.99 mm   0       
+TP10       Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               15.24 mm   6.99 mm   0       
+TP11       Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               13.34 mm   13.97 mm  90      
+TP12       Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               12.07 mm   19.69 mm  0       
+TP13       Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               13.34 mm   32.39 mm  0       
+TP14       Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               13.34 mm   30.48 mm  0       
+TP15       Piazzola         PIAZZOLA         TESTPOINT_1MM_SMD               24.77 mm   29.85 mm  0       
+U1         LM78M05CDTX/NOPB LM78M05_0        TO-252                          3.81 mm    38.10 mm  270     
+U2         TLV7031QDBVRQ1   TLV7031QDBVRQ1   SOT23-5L                        15.24 mm   19.69 mm  0       
+U3         TLV7031QDBVRQ1   TLV7031QDBVRQ1   SOT23-5L                        15.24 mm   14.61 mm  0       
+U4         LM4041CYM3-1.2.. LM4041-REFERENCE SOT23-123                       6.35 mm    5.08 mm   180     
+U5         TLV7031QDBVRQ1   TLV7031QDBVRQ1   SOT23-5L                        15.24 mm   9.53 mm   0       
+U6         HEF4538BT        HEF4538B/SO_7    SO16                            4.45 mm    15.88 mm  90      
+U8         XC7SH08GW,125    SN74AHCT1G08     SOT353                          15.24 mm   28.58 mm  270     
+U9         SN74LVC1G175DCKT SN74LVC1G175     SC70-6                          19.69 mm   27.94 mm  90      
+U10        DS1233DZ-10+     DS1233A/SOT223_0 SOT223-2431                     0.00 mm    30.48 mm  90      
